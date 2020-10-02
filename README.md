@@ -1,2 +1,2 @@
-# whatasppClone
-whataspp clone
+# whatsappClone
+whatsapp clone
